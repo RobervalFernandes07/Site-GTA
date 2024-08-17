@@ -1,2 +1,2 @@
 # Site-GTA
-Amostras de uma página de venda de jogo.
+Amostra de uma página de venda de jogo.
