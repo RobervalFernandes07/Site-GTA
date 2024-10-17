@@ -9,12 +9,7 @@ Este projeto é uma landing page desenvolvida como parte do curso "Semana do Zer
 - JavaScript
 - Figma (para design)
 
-## Estrutura do Projeto
-
-/src /css - reset.css - estilos.css - fontes.css - responsivo.css /imagens - favicon.png - logo-rockstar.svg - logo-gta.svg - bg-main.png - gta5.jpg - logo-ps5.svg - logo-xbox-series-s.svg - logo-ps4.svg - logo-xbox-one.svg - logo-pc.svg - icone-link.svg /js - index.js
-
-markdown
-Copiar código
+/src ├── /css │ ├── reset.css │ ├── estilos.css │ ├── fontes.css │ └── responsivo.css ├── /imagens │ ├── favicon.png │ ├── logo-rockstar.svg │ ├── logo-gta.svg │ ├── bg-main.png │ ├── gta5.jpg │ ├── logo-ps5.svg │ ├── logo-xbox-series-s.svg │ ├── logo-ps4.svg │ ├── logo-xbox-one.svg │ ├── logo-pc.svg │ └── icone-link.svg └── /js └── index.js
 
 ## Funcionalidades
 
@@ -28,6 +23,7 @@ Copiar código
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
 Navegue até a pasta do projeto:
 bash
 Copiar código
@@ -38,7 +34,3 @@ Sinta-se à vontade para contribuir com o projeto, enviando pull requests ou sug
 
 Licença
 Este projeto não possui uma licença específica. Sinta-se à vontade para usar e modificar como desejar.
-
-perl
-
-Pronto! Você pode colar isso diretamente no seu README.md. Se precisar de mais alguma coisa, é só
